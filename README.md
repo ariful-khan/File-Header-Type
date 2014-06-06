@@ -1,6 +1,8 @@
 File-Header-Type
 ================
 
+For our everyday work we need a lot of file header. it a very big list of file header we need to set as Content-Type for http header.
+
 list of all header type
 
      AI   = 'application/postscript';
